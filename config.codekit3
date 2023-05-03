@@ -29,12 +29,38 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/hero.jpg" : {
+    "\/deploy\/img\/catbox.jpg" : {
       "ft" : 16384,
-      "iS" : 129853,
+      "iS" : 1117153,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/hero.jpg",
+      "oAP" : "\/deploy\/img\/catbox.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/catlay.jpg" : {
+      "ft" : 16384,
+      "iS" : 569377,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/catlay.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/cattouch.jpg" : {
+      "ft" : 16384,
+      "iS" : 623149,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cattouch.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
