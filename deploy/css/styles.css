@@ -335,7 +335,7 @@ template {
     Typography
 ============= */
 body {
-  font-family: 'Nova Oval', cursive;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 /* =============
@@ -402,7 +402,7 @@ textarea {
 #section-2 #box {
   height: 100px;
   width: 100px;
-  background-color: var(--red);
+  background-color: #83AF9A ;
   border: 3px solid var(--white);
 }
 
