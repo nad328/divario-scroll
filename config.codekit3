@@ -29,12 +29,12 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/catbox.jpg" : {
+    "\/deploy\/img\/catlay.jpg" : {
       "ft" : 16384,
-      "iS" : 1117153,
+      "iS" : 569377,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/catbox.jpg",
+      "oAP" : "\/deploy\/img\/catlay.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -42,12 +42,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/catlay.jpg" : {
+    "\/deploy\/img\/catorange.jpg" : {
       "ft" : 16384,
-      "iS" : 569377,
+      "iS" : 1067047,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/catlay.jpg",
+      "oAP" : "\/deploy\/img\/catorange.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,

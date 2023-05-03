@@ -335,7 +335,7 @@ template {
     Typography
 ============= */
 body {
-  font-family: "Nunito", sans-serif;
+  font-family: 'Nova Oval', cursive;
 }
 
 /* =============
@@ -368,12 +368,26 @@ textarea {
 /* =============
     Footer
 ============= */
+
+#strokeme
+  {
+      color: white;
+      text-shadow:
+      -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+      1px 1px 0 #000;  
+  }
+
 #section-1 {
   background-color: var(--aqua);
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url("../img/cattouch.jpg");
+  background-size: cover;
+  
 }
 
 #section-2 {
@@ -382,7 +396,7 @@ textarea {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("../img/hero.jpg");
+  background-image: url("../img/catorange.jpg");
   background-size: cover;
 }
 #section-2 #box {
@@ -398,4 +412,6 @@ textarea {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url("../img/catlay.jpg");
+  background-size: cover;
 }
