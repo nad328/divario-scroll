@@ -49,6 +49,24 @@ gsap.from("#box",{duration:1, scrollTrigger:{
     
         return tl;
     }
+
+    function meowanim(){
+        let tl = gsap.timeline({
+            scrollTrigger:{
+                trigger: "#section-3",
+                start:"top 80%",
+                end:"top 40%",
+                scrub:true,
+                markers:true
+            }});
+        tl.from("#bg-img",{duration:1, alpha:0}, "rawr0")
+        
+       
+    
+        ;
+    
+        return tl;
+    }
     
 
 
@@ -56,7 +74,7 @@ gsap.from("#box",{duration:1, scrollTrigger:{
 let mainTl = gsap.timeline();
 mainTl.add(tabbyanimation())
     .add(rosesanimation())
-    
+    .add(meowanim())
     
 
 ;

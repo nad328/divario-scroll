@@ -407,7 +407,7 @@ textarea {
   border: 3px solid var(--white);
 }
 
-#section-3 {
+/* #section-3 {
   background-color: var(--yellow);
   height: 100vh;
   display: flex;
@@ -415,4 +415,41 @@ textarea {
   align-items: center;
   background-image: url("../img/catlay.jpg");
   background-size: cover;
+} */
+
+
+#section-3 {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+@media (min-width: 768px) {
+  #section-3 {
+    height: 80vh;
+  }
+}
+@media (min-width: 1024px) {
+  #section-3 {
+    height: 70vh;
+  }
+}
+#section-3 > div {
+  text-align: center;
+  color: var(--white);
+}
+#section-3 > div h1 {
+  font-family: "Righteous", cursive;
+  font-weight: 400;
+  font-size: 5rem;
+}
+#section-3 #bg-img {
+  background-image: url("../img/catlay.jpg");
+  background-size: cover;
+  background-position: bottom;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
 }
